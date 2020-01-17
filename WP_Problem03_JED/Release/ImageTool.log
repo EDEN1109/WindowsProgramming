@@ -1,0 +1,18 @@
+﻿  ArithmeticLogicalDlg.cpp
+  BrightnessContrastDlg.cpp
+  ChildFrm.cpp
+  FileNewDlg.cpp
+  GammaCorrectionDlg.cpp
+  HistogramDlg.cpp
+  ImageTool.cpp
+  ImageToolDoc.cpp
+  ImageToolView.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+C:\Users\LNR\source\repos\윈프 이론 과제 3관련 프로젝트들\ImageTool\ImageTool.cpp(119,21): warning C4101: 'pDocTemplate' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  13 of 567 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ImageTool.vcxproj -> C:\Users\LNR\source\repos\윈프 이론 과제 3관련 프로젝트들\ImageTool\Release\ImageTool_ch06.exe
